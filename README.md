@@ -11,6 +11,7 @@ pip install
 =================================
 =================================
 
+# Change the location of the temp folder in the python file
 # Run the file as : Python clean.py
 
 =================================
