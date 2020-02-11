@@ -1,5 +1,5 @@
 import os, shutil
-folder = "C:/Users/hp/AppData/Local/Temp"
+folder = "YOUR TEMP LOCATION HERE"
 filescount= 0
 foldercount = 0
 notdeletedfiles = 0
